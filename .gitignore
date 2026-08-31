@@ -1,0 +1,16 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+appsettings.Development.json
+
+# Flutter
+**/build/
+.dart_tool/
+.flutter-plugin-dependencies
+android/.gradle/
+android/local.properties
+ios/Pods/
+
+# Secrets — ne JAMAIS committer une vraie clé API
+**/appsettings.json
