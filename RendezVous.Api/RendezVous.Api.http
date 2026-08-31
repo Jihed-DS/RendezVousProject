@@ -1,0 +1,6 @@
+@RendezVous.Api_HostAddress = http://localhost:5197
+
+GET {{RendezVous.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

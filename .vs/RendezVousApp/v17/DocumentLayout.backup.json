@@ -1,0 +1,1067 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmila\\RendezVousProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\creneau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\creneau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\responsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\responsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\services\\rendezvousservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\services\\rendezvousservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\prestataire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\adminpasswordresetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\adminpasswordresetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\passwordresetrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\createcategoriedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\createcategoriedtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\categoriedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\subcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\subcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\prestatairevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\prestatairevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\paiementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\paiementvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\rendezvousvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\rendezvousvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\creneauvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\creneauvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\rendezvousdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\rendezvousdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\reschedulerendezvousdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\reschedulerendezvousdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\reschedulerendezvousdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\reschedulerendezvousdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\rendezvous.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\rendezvous.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\clientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\clientdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\aviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\aviscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\creneaucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\creneaucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\prestatairecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\prestatairedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\prestatairedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\chatdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\bulkcreatecreneaudtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\bulkcreatecreneaudtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\bulkcreatecreneaudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\bulkcreatecreneaudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\rendezvous.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\rendezvous.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\rendezvousentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\rendezvousentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\creneaudtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\creneaudtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\creneautag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\creneautag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\avisvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\avisvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\avisdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\avisdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\migrations\\20260713085320_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\migrations\\20260713085320_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\subcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\subcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\prestatairesubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\prestatairesubcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\dtos\\paiementdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\dtos\\paiementdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\subcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\paiement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\entities\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\entities\\avis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\controller\\paiementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\controller\\paiementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{994578D5-9F5C-4C89-A9E8-A3643829D3FF}|RendezVous.Data\\RendezVous.Data.csproj|solutionrelative:rendezvous.data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|c:\\users\\hmila\\rendezvousproject\\rendezvous.api\\rendezvous.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2DADF13A-4FA4-4624-99CE-2CC1A7989D7D}|RendezVous.Api\\RendezVous.Api.csproj|solutionrelative:rendezvous.api\\rendezvous.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\UserController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\UserController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\UserController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAIAxwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T10:00:33.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\User.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:37:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Prestataire.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Prestataire.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Prestataire.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Prestataire.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Prestataire.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAzwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:37:39.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RendezVous.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwDMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T08:38:18.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creneau.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Creneau.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Creneau.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Creneau.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Creneau.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:41:21.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AuthController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAASwJMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T10:20:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\ResponseDTOs.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\ResponseDTOs.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\ResponseDTOs.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\ResponseDTOs.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA+wEEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:05:08.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "RendezVous.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\appsettings.json",
+              "RelativeToolTip": "RendezVous.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T08:58:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RendezVousService.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Services\\RendezVousService.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Services\\RendezVousService.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Services\\RendezVousService.cs",
+              "RelativeToolTip": "RendezVous.Api\\Services\\RendezVousService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAIAwwD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:43:02.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:48:05.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminPasswordResetController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AdminPasswordResetController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\AdminPasswordResetController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AdminPasswordResetController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\AdminPasswordResetController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:10:01.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PasswordResetRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\PasswordResetRequest.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\PasswordResetRequest.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\PasswordResetRequest.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\PasswordResetRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T09:07:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PrestataireValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PrestataireValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\PrestataireValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PrestataireValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\PrestataireValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:56:33.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubcategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\SubcategoryValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\SubcategoryValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\SubcategoryValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\SubcategoryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T10:34:51.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PaiementValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PaiementValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\PaiementValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PaiementValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\PaiementValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:01:40.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategorieDto.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CategorieDto.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\CategorieDto.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CategorieDto.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\CategorieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:58:16.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateCategorieDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CreateCategorieDtoValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\CreateCategorieDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CreateCategorieDtoValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\CreateCategorieDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:59:18.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Services\\ClientService.cs",
+              "RelativeToolTip": "RendezVous.Api\\Services\\ClientService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIAzwGMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:13:26.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RendezVousValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RendezVousValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\RendezVousValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RendezVousValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\RendezVousValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:49:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreneauValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CreneauValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\CreneauValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CreneauValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\CreneauValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:55:37.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RendezVousDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RendezVousDTOs.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\RendezVousDTOs.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RendezVousDTOs.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\RendezVousDTOs.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:39:09.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RescheduleRendezVousDto.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RescheduleRendezVousDto.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\RescheduleRendezVousDto.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RescheduleRendezVousDto.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\RescheduleRendezVousDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:58:25.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RescheduleRendezVousDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RescheduleRendezVousDtoValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\RescheduleRendezVousDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\RescheduleRendezVousDtoValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\RescheduleRendezVousDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:58:41.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "RendezVous.Api\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADgvxMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T09:31:00.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RendezVousController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\RendezVousController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\RendezVousController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\RendezVousController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\RendezVousController.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAiwNYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:13:37.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Program.cs",
+              "RelativeToolTip": "RendezVous.Api\\Program.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAADwv6QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T08:57:16.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RendezVous.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-08T10:14:02.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\ClientController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\ClientController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\ClientController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\ClientController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwJIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:13:54.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RendezVous.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\RendezVous.Api.csproj",
+              "RelativeDocumentMoniker": "RendezVous.Api\\RendezVous.Api.csproj",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\RendezVous.Api.csproj",
+              "RelativeToolTip": "RendezVous.Api\\RendezVous.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvwgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T09:51:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClientDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\ClientDTOs.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\ClientDTOs.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\ClientDTOs.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\ClientDTOs.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T08:12:53.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreneauController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\CreneauController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\CreneauController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\CreneauController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\CreneauController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAWwIEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T09:55:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AvisController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AvisController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\AvisController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AvisController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\AvisController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwFAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T10:00:51.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Client.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:41:18.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\AdminDashboardController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\AdminDashboardController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:37:56.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminDashboardDto.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\AdminDashboardDto.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\AdminDashboardDto.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\AdminDashboardDto.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\AdminDashboardDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T08:37:29.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PrestataireController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\PrestataireController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\PrestataireController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\PrestataireController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\PrestataireController.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwKcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T09:55:34.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PrestataireDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PrestataireDTOs.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\PrestataireDTOs.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PrestataireDTOs.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\PrestataireDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:57:05.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChatDtos.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\ChatDtos.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\ChatDtos.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\ChatDtos.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\ChatDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T08:34:26.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\ChatController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\ChatController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\ChatController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\ChatController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T08:33:25.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BulkCreateCreneauDto.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\BulkCreateCreneauDto.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\BulkCreateCreneauDto.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\BulkCreateCreneauDto.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\BulkCreateCreneauDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:06:28.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\CategoriesController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\CategoriesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T09:52:56.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BulkCreateCreneauDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\BulkCreateCreneauDtoValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\BulkCreateCreneauDtoValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\BulkCreateCreneauDtoValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\BulkCreateCreneauDtoValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T09:07:10.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RendezVous.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\RendezVous.Data.csproj",
+              "RelativeDocumentMoniker": "RendezVous.Data\\RendezVous.Data.csproj",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\RendezVous.Data.csproj",
+              "RelativeToolTip": "RendezVous.Data\\RendezVous.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-08T07:53:57.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RendezVousEntity.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\RendezVousEntity.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\RendezVousEntity.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\RendezVousEntity.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\RendezVousEntity.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:41:00.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreneauDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CreneauDTOs.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\CreneauDTOs.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\CreneauDTOs.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\CreneauDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T08:55:05.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CreneauTag.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\CreneauTag.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\CreneauTag.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\CreneauTag.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\CreneauTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T23:03:11.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\NotificationController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\NotificationController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\NotificationController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA6wC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T10:45:28.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AvisDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\AvisDTOs.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\AvisDTOs.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\AvisDTOs.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\AvisDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:01:08.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AvisValidator.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\AvisValidator.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\AvisValidator.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\AvisValidator.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\AvisValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:01:19.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20260713085320_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Migrations\\20260713085320_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Migrations\\20260713085320_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Migrations\\20260713085320_InitialCreate.cs",
+              "RelativeToolTip": "RendezVous.Data\\Migrations\\20260713085320_InitialCreate.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAmwH4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:35:11.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SubcategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\SubcategoryDto.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\SubcategoryDto.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\SubcategoryDto.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\SubcategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T10:34:30.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Categorie.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Categorie.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Categorie.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Categorie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:41:13.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PrestataireSubcategory.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\PrestataireSubcategory.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\PrestataireSubcategory.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\PrestataireSubcategory.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\PrestataireSubcategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T10:22:58.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PaiementDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PaiementDTOs.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\DTOs\\PaiementDTOs.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\DTOs\\PaiementDTOs.cs",
+              "RelativeToolTip": "RendezVous.Api\\DTOs\\PaiementDTOs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T09:01:31.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SubcategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\SubcategoryController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\SubcategoryController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\SubcategoryController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\SubcategoryController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:38:34.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAIVAAAAAAAAAAAqwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-07-23T10:24:10.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RendezVous.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\appsettings.Development.json",
+              "RelativeToolTip": "RendezVous.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-13T08:09:35.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Avis.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Avis.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Avis.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Avis.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Avis.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:41:07.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Notification.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Notification.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Notification.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:41:25.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Paiement.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Paiement.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Paiement.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Paiement.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Paiement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T10:41:29.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Subcategory.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Subcategory.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Entities\\Subcategory.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Entities\\Subcategory.cs",
+              "RelativeToolTip": "RendezVous.Data\\Entities\\Subcategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T09:33:37.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PaiementController.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\PaiementController.cs",
+              "RelativeDocumentMoniker": "RendezVous.Api\\Controller\\PaiementController.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\Controller\\PaiementController.cs",
+              "RelativeToolTip": "RendezVous.Api\\Controller\\PaiementController.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv3wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T10:01:20.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RendezVous.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "RendezVous.Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T08:35:05.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RendezVous.Api.http",
+              "DocumentMoniker": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\RendezVous.Api.http",
+              "RelativeDocumentMoniker": "RendezVous.Api\\RendezVous.Api.http",
+              "ToolTip": "C:\\Users\\hmila\\RendezVousProject\\RendezVous.Api\\RendezVous.Api.http",
+              "RelativeToolTip": "RendezVous.Api\\RendezVous.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-08T08:58:26.637Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

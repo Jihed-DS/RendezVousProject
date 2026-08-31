@@ -1,0 +1,13 @@
+C:\Users\hmila\RendezVousProject\RendezVous.Core\bin\Debug\net9.0\RendezVous.Core.deps.json
+C:\Users\hmila\RendezVousProject\RendezVous.Core\bin\Debug\net9.0\RendezVous.Core.runtimeconfig.json
+C:\Users\hmila\RendezVousProject\RendezVous.Core\bin\Debug\net9.0\RendezVous.Core.dll
+C:\Users\hmila\RendezVousProject\RendezVous.Core\bin\Debug\net9.0\RendezVous.Core.pdb
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\RendezVous.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\RendezVous.Core.AssemblyInfoInputs.cache
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\RendezVous.Core.AssemblyInfo.cs
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\RendezVous.Core.csproj.CoreCompileInputs.cache
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\RendezVous.Core.dll
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\refint\RendezVous.Core.dll
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\RendezVous.Core.pdb
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\RendezVous.Core.genruntimeconfig.cache
+C:\Users\hmila\RendezVousProject\RendezVous.Core\obj\Debug\net9.0\ref\RendezVous.Core.dll
